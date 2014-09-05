@@ -1,0 +1,15 @@
+public class xxx 
+
+{
+   
+   public static void main(String[] args)
+   
+   {
+      System.out.println("xxx");
+      
+      System.out.print("xxx");
+      
+      System.out.printf("xxx");
+   } 
+   
+} 
